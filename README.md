@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JuniaKE
-- 👀 I’m interested in Machine Learning, Big Data and AI
-- 🌱 I’m currently learning Python-programming for the same
-- 💞️ I’m looking to collaborate on Machine Learning 
+- 👋 Hi, I’m Brian Koech (@JuniaKE)
+- 👀 I'm an Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Java, NodeJs, Laravel, Php, Vue, Angular, and React.
+My focus has been delivering as a backend Engineer, developing and consuming REST APIs.
 - 📫 How to reach me briankoech650@gmail.com 
 
 <!---
